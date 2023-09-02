@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /media/wp-admin/
+Allow: /media/wp-admin/admin-ajax.php
+
+Sitemap: https://www.shibuya-louvre-dental.com/sitemap.xml
+Sitemap: https://www.shibuya-louvre-dental.com/media/sitemap.xml
