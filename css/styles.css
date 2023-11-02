@@ -5208,6 +5208,13 @@ padding-top: 5px;
     width: 100%;
     margin: 0 0 1.5em;
 }
+
+  .doctor-certificates{
+    display: flex;
+  }
+  .doctor-certificates .certificate{
+    width: 120px;
+  }
 	
 .mb80 {
 	margin-bottom: 40px;
