@@ -3030,6 +3030,15 @@ z-index: 22
   /* font-family: kan48typos-std, sans-serif; */
   transition: all 0.3s;
 }
+.box-15-certificates{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.box15-certificates .certificate{
+  width: 120px;
+}
 /*==========================================================================*/
 /*                               box16                                     */
 /*==========================================================================*/

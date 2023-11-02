@@ -1579,6 +1579,9 @@ body.overflow::before {
         right: 28px;
         top: 10px;
     }
+    .box15-certificates .certificate{
+        width: 100px;
+    }
     .index_btn02 p a {
         width: 100%;
         height: 50px;
