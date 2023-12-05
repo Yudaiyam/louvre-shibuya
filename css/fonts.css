@@ -121,3 +121,15 @@ p input {
 .yu-gothic {
   font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
 }
+
+.text-color-dark-blue {
+  color: #1d2c51;
+}
+
+.text-color-light-blue {
+  color: #50b1f1;
+}
+
+.text-color-gold {
+  color: #ad8533;
+}
