@@ -122,6 +122,11 @@ p input {
   font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
 }
 
+.yu-mincho {
+  font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN",
+    "Yu Mincho", "MS PMincho", serif;
+}
+
 .text-color-dark-blue {
   color: #1d2c51;
 }
@@ -132,4 +137,8 @@ p input {
 
 .text-color-gold {
   color: #ad8533;
+}
+
+.text-color-light-black {
+  color: #333;
 }

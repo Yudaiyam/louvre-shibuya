@@ -60,3 +60,28 @@ $(".banner-slide").slick({
   centerMode: true,
   arrows: false,
 });
+$(function () {
+  function sliderSetting() {
+    var width = $(window).width();
+
+    if (width >= 768) {
+      $(".box04_slider").slick({
+        variableWidth: true,
+        autoplay: true,
+        autoplaySpeed: 0,
+        cssEase: "linear",
+        speed: 5000,
+        centerMode: true,
+        arrows: false,
+      });
+    } else {
+      // pcの場合
+    }
+  }
+
+  sliderSetting();
+
+  $(window).resize(function () {
+    sliderSetting();
+  });
+});
